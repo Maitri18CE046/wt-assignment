@@ -1,0 +1,36 @@
+html{
+    background-color: #CCFFCC;
+}
+.header{
+    border: 5px dotted #660066;
+    padding: 10px;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+.titlebar{
+    width: 500px;
+    height: 20px;
+    padding: 6px;
+    padding-left: 10px;
+    border-radius: 15px;
+    background-color: #996600;
+    box-shadow: 4px 4px 2px #FF3300;  
+}
+.darkred{
+    color: #990000;
+}
+.darkpurple{
+    color: #660066;
+}
+.orange{
+    color: #FF3300;
+}
+.red{
+    color: #cc0000;
+}
